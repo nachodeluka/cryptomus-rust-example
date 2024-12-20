@@ -1,3 +1,4 @@
+![Cryptomus Logo](https://i.imgur.com/B9WAjH2.png)
 # Cryptomus Rust Example
 
 This is a Rust example project for integrating with the Cryptomus API to create payments.
